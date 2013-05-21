@@ -11,12 +11,12 @@ Name of mentor
 no of members
 member list
 -
-<pre>
+</pre>
 
 A sample file is included in this repo i.e inctf13.txt
 
 Run the script:
-<pre> $ python gen_cert.py < inctf13.txt </pre>
+<pre> $ python gen\_cert.py < inctf13.txt </pre>
 
 Based on the position of the teams you will have to add certificate image file. You can add certificate images of any format which python image library supports. As the file size of the certificates which I used are huge. I did not add them to this repository.
 
