@@ -3,13 +3,13 @@ Introduction
 This repository contains a python script to generate certificates of contests. All you need to give an input with the details of the team and team members in the below given format: 
 
 <pre>
-<no of teams>
-<position of team>: 1, 2, 3, 4, 5,
-<Name of team>
-<Name of college>
-<Name of mentor>
-<no of members>
-<member list>
+no of teams
+position of team: 1, 2, 3, 4, 5,
+Name of team
+Name of college
+Name of mentor
+no of members
+member list
 -
 <pre>
 
