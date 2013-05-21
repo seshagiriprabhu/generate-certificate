@@ -1,0 +1,205 @@
+23
+1
+C@rpe_d!em
+DA-IICT
+mentor
+2
+Harsh Shah
+Yogin Patel
+-
+2
+Bithaxorz
+Amrita School of Engineering
+mentor
+4
+Aravind V
+Mukil Rajeev
+Ajvad Rahman
+Vijay Anand
+-
+3
+Uni!x99
+RGUKT Nuzvid
+mentor
+4
+Santhosh Baswa
+Naresh Chowdary Kommuri
+Venkata Sateesh Netti
+Nageshwara Rao	Podilapu
+-
+4
+Ignited Minds
+Amrita Vishwa VidyaPeetham
+Mentor
+4
+Neenu M
+Subi Prabhakaran
+Sherin Sunny
+Christy Johny
+-
+5
+JNP2
+Amrita Vishwa VidyaPeetham
+Mentor
+3
+Preethi K
+Nandini M
+Jincy V J
+-
+5
+R3ut3rZ
+Amrita School of Engineering Coimbatore
+mentor
+4
+Ashok Kumar 
+Manoj Kumar
+Arun Murali
+Ranjith V
+-
+5
+ignite
+Govt. Model Engineering College, Thrikkakara
+Mentor
+4
+Meenu Vincent
+Neenu Vincent
+Anusha Anandan
+Arjun Shenoy
+-
+5
+The Flying Dutchman
+Amrita school of Engineering, Bangalore
+Mentor
+3
+Farhan Sheik
+Tanoy Bose
+Srinidhi Nagendra
+-
+5
+dcoder
+National Institute of Technology, Calicut
+mentor
+3
+Abijith K P
+K S Kurian
+Bosco Frank Paul
+-
+5
+r00t
+Amrita School of engineering, Bangalore
+Mentor
+2
+Yogeesh Seralathan
+Adithya Naresh
+-
+5
+Heisenbuggers
+National Institute of Technology, Trichirappalli
+Mentor
+3
+Vignesh	Panneerselvam
+Deepak M
+Parameshwaran
+-
+5
+Northboys
+NIT Surat
+mentor
+2
+Anil Tiwari
+Prashant Singh
+-
+5
+inj3ct0r
+NITK
+mentor
+3
+Jehu Shalom
+Tavan Edla
+Naveen K Sid
+-
+5
+@m-b105
+Amrita Vishwa Vidyapeetham, Amritapuri
+mentor
+3
+Sakshi Bansal
+Savita Seetaraman
+Shankar Raman
+-
+5
+kick@stack
+ASE Amritapuri
+Mentor
+4
+Sreeram R
+Deepak Raj
+Boney S Kalarickal
+Nithun M
+-
+5
+Cyb3rboTz
+Amrita School of Engineering, Coimbatore
+mentor
+4
+Rahul P K
+Sanal Kumar
+Devisree G S
+Akhitha S Kumar
+-
+5
+fugeniz
+Amritha Viswavidyapeetham Coimbatore
+Mentor
+4
+Divya T
+Anjana S
+Chandini Rajeev
+Anumol E T
+-
+5
+Ir00t
+Amal Jyothi College of Engineering
+Mentor
+1
+Francis Alexander
+-
+5
+hack0xf4
+Thapar University Patiala
+mentor
+4
+Vishal Mishra
+Nidhi Verma
+Tanu Goyal
+Sonam Mahajan
+-
+5
+The Learners
+Garden City College
+mentor
+2
+Thanglalson Gangte
+Sonu Prasad Rauniyar
+-
+5
+Bytelandians
+National Institute of Technology Karnataka Surathkal
+mentor
+3
+Abhay Chennagiri
+Kiran Karanth
+Vikas Yaligar
+-
+
+
+
+
+
+
+
+
+
+
+
+
