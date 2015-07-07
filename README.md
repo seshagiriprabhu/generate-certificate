@@ -15,7 +15,13 @@ member list
 
 A sample file is included in this repo i.e inctf13.txt
 
-Run the script:
+##Requirements
+Linux
+```bash
+$ sudo apt-get install libfreetype6-dev libxft-dev  libjpeg62  libjpeg-dev
+$ pip install Pillow
+```
+##Run the script:
 $ python gencert.py < inctf13.txt 
 
 Based on the position of the teams you will have to add certificate image file. You can add certificate images of any format which python image library supports. As the file size of the certificates which I used are huge. I did not add them to this repository.
